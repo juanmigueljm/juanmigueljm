@@ -1,6 +1,6 @@
 ## Sobre este repositorio
 
-Mi nombre es JuanMiguel; hago arte(*factos*).
+#### Mi nombre es JuanMiguel; hago arte(*factos*).
 
 Etos proyectos contienen el código y otros archivos digitales de mis obras **físicas**.
 
